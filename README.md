@@ -11,5 +11,8 @@ peticiones asincronas con la tecnología de AXIOS
 BackEnd por Spring para crear nuestro controlador de tipo Rest, capa de servicio con métodos transaccionales y capa de datos para crear nuestras clases de entidades con JPA y HIBERNATE
 y para guardar nuestra información utilizo la base de datos de MySQL
 
+<img src="https://github.com/ferchris82/recursos-humanos-react/blob/master/RecursosHumanos.png" width="500" height="200">
+
+
 
 
